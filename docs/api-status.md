@@ -58,6 +58,9 @@ API.CreateTopic | $NEXT_RELEASE | $NEXT_RELEASE_STABLE |
 API.GetTopicAttributes | $NEXT_RELEASE | $NEXT_RELEASE_STABLE | 
 API.DeleteTopic | $NEXT_RELEASE | $NEXT_RELEASE_STABLE | 
 API.ListTopics | $NEXT_RELEASE | $NEXT_RELEASE_STABLE | 
+API.CreateNotification | $NEXT_RELEASE | $NEXT_RELEASE_STABLE | 
+API.DeleteNotification | $NEXT_RELEASE | $NEXT_RELEASE_STABLE | 
+API.GetNotifications | $NEXT_RELEASE | $NEXT_RELEASE_STABLE | 
 
 ## Package: common/admin/manager
 
